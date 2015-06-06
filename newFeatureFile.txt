@@ -1,1 +1,2 @@
 New feature file
+second commit on feature 2 
